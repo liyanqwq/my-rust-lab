@@ -1,2 +1,3 @@
-# my-rust-lab
- Rust 学习计划
+# my-rust
+
+Rust 学习计划
